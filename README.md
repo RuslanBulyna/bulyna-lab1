@@ -1,2 +1,2 @@
-# bulyna-lab
+# bulyna-labs
 Лабораторні роботи з ІПЗ
